@@ -5,7 +5,7 @@
 echo "# frashcleaner" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "frashcleaner" [double qutation will be change for the project name replace]
 git branch -M main
 git remote add origin https://github.com/fahadcse501/frashcleaner.git
 git push -u origin main
